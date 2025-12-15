@@ -2,13 +2,22 @@
 
 ![img](pic/map-of-gen-ai.png)
 
-> Source: https://youtu.be/WzvURhaDZqI?si=3IMnGmFobOb-OBkH
-
 ---
+
+## Gen AI 
+
+![pic](assets/Fundamental.svg)
+![pic](assets/User_Perspective.svg)
+![pic](assets/Builder_Perpective.svg)
+
 
 ![img](pic/The_Hidden_Structure_of_Generative_AI_%20Map%20of%20GenAI%20_%20CampusX.png)
 
 All the content belonging to my dear Nitish sir channel 💜 [CampusX](https://www.youtube.com/@campusx-official)
+
+> **Source**:
+> - Map: https://youtu.be/WzvURhaDZqI?si=3IMnGmFobOb-OBkH 
+> - Perspective: https://youtu.be/pSVk-5WemQ0?si=rXkyaiDZISENhDwM
 
 ---
 **About Me**
